@@ -1,1 +1,6 @@
 *.pyc
+href_word_tdidf
+inverted_index
+urls
+word_dict
+
